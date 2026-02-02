@@ -1,0 +1,21 @@
+#searchbar{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+}
+
+.search{
+    background-color: grey;
+    max-width: 700px;
+    width: 100%
+}
+
+.qwirty{
+    font-size: 30px;
+    color:#44b;
+}
+
+.button{
+    padding: 15px;
+    background-color: crimson;
+}

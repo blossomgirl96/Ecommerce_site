@@ -1,0 +1,19 @@
+footer {
+    display:flex;
+    justify-content: center;
+    gap: 100px;                 /* space between the 3 columns */
+    padding: 40px 60px;
+    background: #44b;;
+    color: white;
+    margin:5px;
+    width:100%
+  }
+
+
+.footerlist{
+    list-style-type: none;
+}
+
+
+
+

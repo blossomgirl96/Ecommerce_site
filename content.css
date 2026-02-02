@@ -1,0 +1,26 @@
+article {
+  display: flex;
+  flex-direction: column;
+  gap: 1ch;
+
+  padding-right: 1ch;
+}
+
+.listing{
+    display: flex;
+}
+
+container{
+    margin: 5px;
+}
+
+#pricingsection{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    padding-right: 5px;
+    background-color: #44b;
+    color: white;
+
+}
+

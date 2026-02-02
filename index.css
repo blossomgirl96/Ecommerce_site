@@ -1,0 +1,53 @@
+
+  html {
+    font-family: sans-serif;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  main{
+    flex: 1;
+    display: flex;
+    gap: 1ch;
+  }
+  
+
+  a{
+    color:white
+  }
+  
+  /*body{
+    width: 1200px;     
+    margin: 0 auto; 
+  }*/
+
+  body{
+    margin:0;
+  }
+
+  .page{
+    width:1200px;
+    margin: 0 auto;
+  }
+
+  #foooter{
+    width: 100%;
+    background: #44b;
+  }
+
+  img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  h3{
+    padding: 10px;
+    padding-right: 5px;
+    background-color: #44b;
+    color: white;
+  }
